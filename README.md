@@ -3,6 +3,12 @@
 
 ---
 
+### Requirements
+
+- plugin - NoFallDamage
+
+---
+
 ### Description:
 
 - If you have ever seen the "Generating World" bug on the server, simply download this plugin which will disable this bug on your server!
