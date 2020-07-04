@@ -1,6 +1,6 @@
 name: AntiGeneratingScreen
 api: 3.0.0
-version: 1.0
+version: 1.1
 main: matymare\AntiGeneratingWorldScreen\AGS
 author: matymare
 description: Disable Generating World screen!
